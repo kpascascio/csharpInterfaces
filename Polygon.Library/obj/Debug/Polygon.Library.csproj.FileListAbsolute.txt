@@ -1,0 +1,6 @@
+c:\Users\kenn3\documents\visual studio 2017\Projects\Polygons\Polygon.Library\bin\Debug\Polygon.Library.exe.config
+c:\Users\kenn3\documents\visual studio 2017\Projects\Polygons\Polygon.Library\bin\Debug\Polygon.Library.exe
+c:\Users\kenn3\documents\visual studio 2017\Projects\Polygons\Polygon.Library\bin\Debug\Polygon.Library.pdb
+c:\Users\kenn3\documents\visual studio 2017\Projects\Polygons\Polygon.Library\obj\Debug\Polygon.Library.csprojResolveAssemblyReference.cache
+c:\Users\kenn3\documents\visual studio 2017\Projects\Polygons\Polygon.Library\obj\Debug\Polygon.Library.exe
+c:\Users\kenn3\documents\visual studio 2017\Projects\Polygons\Polygon.Library\obj\Debug\Polygon.Library.pdb
